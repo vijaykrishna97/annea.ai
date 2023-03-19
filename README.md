@@ -1,5 +1,5 @@
 
-# Data Analysis
+# Data Analysis Project
 
 This python code comes with (.ipynb) file. So use jupyter notebook to run this file.
 
